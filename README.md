@@ -1,2 +1,7 @@
-<h1>hello zahra</h1>
-<p>welcom to git hub</p>
+<HTML>
+  <head>
+  </head>
+  <body>
+    <h1>welcom to git hub</h1>
+  </body>
+</HTML>
